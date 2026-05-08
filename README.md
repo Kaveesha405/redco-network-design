@@ -128,7 +128,5 @@ redco-network-design/
 
 **Kaveesha Amiru** | Student ID: 00272845  
 HND in Computing — Networking Module  
-Lecturer: Ms. Brindha Shree Ravidass  
-Institution: ESOFT Metro Campus
 
 > This project was developed for academic purposes.
