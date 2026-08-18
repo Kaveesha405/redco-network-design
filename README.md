@@ -1,12 +1,12 @@
 # Redco Developments - Network Design and Implementation
 
-A multi-branch enterprise network designed and simulated in **Cisco Packet Tracer** for Redco Developments, covering two office locations — the **Kandy Head Office** and the **Galle Southern Branch**. This project was completed as part of an HND Networking assignment covering network design, VLAN configuration, IP subnetting, routing protocols, server setup, and network testing.
+A multi-branch enterprise network designed and simulated in **Cisco Packet Tracer** for Redco Developments, covering two office locations - the **Kandy Head Office** and the **Galle Southern Branch**. This project was completed as part of an HND Networking assignment covering network design, VLAN configuration, IP subnetting, routing protocols, server setup, and network testing.
 
 ***
 
 ## Project Overview
 
-The network is designed with a hierarchical topology — **star topology** at the access layer for departmental workstations and **partial mesh** in server rooms for fault tolerance. Both branches are interconnected via a WAN link using **RIP (Routing Information Protocol)** for dynamic inter-branch routing and **IPSec VPN** for secure inter-site data transfer.
+The network is designed with a hierarchical topology - **star topology** at the access layer for departmental workstations and **partial mesh** in server rooms for fault tolerance. Both branches are interconnected via a WAN link using **RIP (Routing Information Protocol)** for dynamic inter-branch routing and **IPSec VPN** for secure inter-site data transfer.
 
 ***
 
@@ -66,9 +66,9 @@ The network is designed with a hierarchical topology — **star topology** at th
 ## Servers Configured
 
 Both branches include the following servers:
-- **DHCP Server** — automatic IP allocation for all workstation VLANs
-- **DNS Server** — internal name resolution
-- **Web Server** — internal intranet access
+- **DHCP Server** - automatic IP allocation for all workstation VLANs
+- **DNS Server** - internal name resolution
+- **Web Server** - internal intranet access
 
 ***
 
@@ -127,6 +127,6 @@ redco-network-design/
 ## Author
 
 **Kaveesha Amiru** | Student ID: 00272845  
-HND in Computing — Networking Module  
+HND in Computing - Networking Module  
 
 > This project was developed for academic purposes.
